@@ -374,7 +374,7 @@ def crack_select1():
 
 		except:id_limit=1
 
-		for t in range(id_limit):
+
 
 			t +=1
 
@@ -444,9 +444,9 @@ def crack_select1():
 
 	elif select =="3":
 
-		os.system("clear")
 
-		logo()
+
+
 
 		print("")
 
